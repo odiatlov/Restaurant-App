@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "C:\\Projects\\RestaurantApp\\ReactAspx\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|c:\\projects\\restaurantapp\\reactaspx\\reactaspx\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|solutionrelative:reactaspx\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|c:\\projects\\restaurantapp\\reactaspx\\reactaspx\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|solutionrelative:reactaspx\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|c:\\projects\\restaurantapp\\reactaspx\\reactaspx\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|solutionrelative:reactaspx\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|c:\\projects\\restaurantapp\\reactaspx\\reactaspx\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|solutionrelative:reactaspx\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|c:\\projects\\restaurantapp\\reactaspx\\reactaspx\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|solutionrelative:reactaspx\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|c:\\projects\\restaurantapp\\reactaspx\\reactaspx\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|solutionrelative:reactaspx\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|c:\\projects\\restaurantapp\\reactaspx\\reactaspx\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|solutionrelative:reactaspx\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|c:\\projects\\restaurantapp\\reactaspx\\reactaspx\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|solutionrelative:reactaspx\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|C:\\Projects\\RestaurantApp\\ReactAspx\\reactaspx\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|solutionrelative:reactaspx\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|c:\\projects\\restaurantapp\\reactaspx\\reactaspx\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|solutionrelative:reactaspx\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|C:\\Projects\\RestaurantApp\\ReactAspx\\reactaspx\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|solutionrelative:reactaspx\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|C:\\Projects\\RestaurantApp\\ReactAspx\\reactaspx\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|solutionrelative:reactaspx\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|C:\\Projects\\RestaurantApp\\ReactAspx\\reactaspx\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|solutionrelative:reactaspx\\models\\manageviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|C:\\Projects\\RestaurantApp\\ReactAspx\\reactaspx\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|solutionrelative:reactaspx\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|C:\\Projects\\RestaurantApp\\ReactAspx\\reactaspx\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|solutionrelative:reactaspx\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|C:\\Projects\\RestaurantApp\\ReactAspx\\reactaspx\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|solutionrelative:reactaspx\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|C:\\Projects\\RestaurantApp\\ReactAspx\\reactaspx\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|solutionrelative:reactaspx\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|C:\\Projects\\RestaurantApp\\ReactAspx\\reactaspx\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|solutionrelative:reactaspx\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|C:\\Projects\\RestaurantApp\\ReactAspx\\reactaspx\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B0072-0530-4C45-92D7-4712810F0C73}|ReactAspx\\ReactAspx.csproj|solutionrelative:reactaspx\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,9 +53,23 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 300,
-          "SelectedChildIndex": 4,
+          "DockedHeight": 356,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Views\\Web.config",
+              "RelativeDocumentMoniker": "ReactAspx\\Views\\Web.config",
+              "ToolTip": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Views\\Web.config",
+              "RelativeToolTip": "ReactAspx\\Views\\Web.config",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-20T13:53:27.052Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -67,6 +89,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Web.config",
+              "RelativeDocumentMoniker": "ReactAspx\\Web.config",
+              "ToolTip": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Web.config",
+              "RelativeToolTip": "ReactAspx\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-20T13:59:26.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ReactAspx\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "ReactAspx\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:50:14.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "ReactAspx\\Models\\AccountViewModels.cs",
+              "ToolTip": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "ReactAspx\\Models\\AccountViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:56:23.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ReactAspx\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ReactAspx\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T12:53:14.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Models\\OrderDetail.cs",
               "RelativeDocumentMoniker": "ReactAspx\\Models\\OrderDetail.cs",
@@ -79,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Models\\Order.cs",
               "RelativeDocumentMoniker": "ReactAspx\\Models\\Order.cs",
@@ -92,33 +166,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ManageViewModels.cs",
               "DocumentMoniker": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Models\\ManageViewModels.cs",
               "RelativeDocumentMoniker": "ReactAspx\\Models\\ManageViewModels.cs",
               "ToolTip": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Models\\ManageViewModels.cs",
               "RelativeToolTip": "ReactAspx\\Models\\ManageViewModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T08:25:50.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "IdentityModels.cs",
               "DocumentMoniker": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Models\\IdentityModels.cs",
               "RelativeDocumentMoniker": "ReactAspx\\Models\\IdentityModels.cs",
               "ToolTip": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Models\\IdentityModels.cs",
               "RelativeToolTip": "ReactAspx\\Models\\IdentityModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T08:25:28.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "FoodItem.cs",
               "DocumentMoniker": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Models\\FoodItem.cs",
               "RelativeDocumentMoniker": "ReactAspx\\Models\\FoodItem.cs",
@@ -131,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "ReactAspx\\Models\\Customer.cs",
@@ -141,50 +215,11 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T08:18:29.85Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Web.Release.config",
-              "DocumentMoniker": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Web.Release.config",
-              "RelativeDocumentMoniker": "ReactAspx\\Web.Release.config",
-              "ToolTip": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Web.Release.config",
-              "RelativeToolTip": "ReactAspx\\Web.Release.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-01-15T12:32:46.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Web.Debug.config",
-              "DocumentMoniker": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Web.Debug.config",
-              "RelativeDocumentMoniker": "ReactAspx\\Web.Debug.config",
-              "ToolTip": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Web.Debug.config",
-              "RelativeToolTip": "ReactAspx\\Web.Debug.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-01-15T12:32:45.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Web.config",
-              "RelativeDocumentMoniker": "ReactAspx\\Web.config",
-              "ToolTip": "C:\\Projects\\RestaurantApp\\ReactAspx\\ReactAspx\\Web.config",
-              "RelativeToolTip": "ReactAspx\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-01-15T12:31:16.867Z",
-              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 100,
+          "DockedHeight": 44,
           "SelectedChildIndex": -1,
           "Children": [
             {
@@ -218,6 +253,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
             }
           ]
         }
